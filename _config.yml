@@ -12,3 +12,7 @@ color:
     - '#4AD9D9'
     - '#36B1BF'
 name: nathaliet trajes de baño
+navigation:
+  - name: Home
+    url: 'http://thegrid.ai/nathaliet/'
+    type: external
