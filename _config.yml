@@ -16,3 +16,6 @@ navigation:
   - name: Home
     url: 'http://thegrid.ai/nathaliet/'
     type: external
+  - name: Poleras
+    url: 'https://thegrid.ai/nathaliet-poleras/'
+    type: external
