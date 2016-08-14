@@ -1,16 +1,16 @@
 layout_spectrum: 0.07474291231483221
-typography_spectrum: 0.6622127427253872
+typography_spectrum: 0.38269696454517543
 color:
-  brandStrength: 0.5032892308663577
-  lightness: 0.3321112496778369
-  saturation: 0.037484249798581004
-  rhythmicContrast: 0.7761984702665359
+  brandStrength: 0.9590599094517529
+  lightness: 0.6940176435746253
+  saturation: 0.3633711456786841
+  rhythmicContrast: 0.5274561152327806
   brandColors:
-    - '#F2385A'
-    - '#F5A503'
-    - '#E9F1DF'
-    - '#4AD9D9'
-    - '#36B1BF'
+    - '#FFF8E3'
+    - '#CCCC9F'
+    - '#33332D'
+    - '#9FB4CC'
+    - '#DB4105'
 name: nathaliet trajes de baño
 navigation:
   - name: Home
