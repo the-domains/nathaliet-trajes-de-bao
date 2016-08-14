@@ -28,3 +28,6 @@ navigation:
   - name: Vestidos
     url: 'https://thegrid.ai/nathaliet-vestidos'
     type: external
+  - name: Trajes de Baño
+    url: 'https://thegrid.ai/nathaliet-trajes-de-bano/'
+    type: external
