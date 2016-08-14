@@ -25,3 +25,6 @@ navigation:
   - name: Blazers
     url: 'https://thegrid.ai/nathaliet-blazers'
     type: external
+  - name: Vestidos
+    url: 'https://thegrid.ai/nathaliet-vestidos'
+    type: external
