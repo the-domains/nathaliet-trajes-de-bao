@@ -22,3 +22,6 @@ navigation:
   - name: Crop Tops
     url: 'https://thegrid.ai/nathaliet-croptops'
     type: external
+  - name: Blazers
+    url: 'https://thegrid.ai/nathaliet-blazers'
+    type: external
