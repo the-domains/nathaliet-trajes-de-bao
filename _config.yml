@@ -1,4 +1,3 @@
-layout_spectrum: 0.07474291231483221
 typography_spectrum: 0.6622127427253872
 color:
   brandStrength: 0.5032892308663577
@@ -11,7 +10,10 @@ color:
     - '#E9F1DF'
     - '#4AD9D9'
     - '#36B1BF'
-name: nathaliet trajes de baño
+layout_spectrum: 0.07474291231483221
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc99a213-51df-4105-91b8-42a7d0384238.png
+name: Nathaliet
 navigation:
   - name: Home
     url: 'http://thegrid.ai/nathaliet/'
@@ -40,3 +42,5 @@ navigation:
   - name: Acerca de Nathaliet
     url: 'https://thegrid.ai/nathaliet/acerca-de-nathaliet/'
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ffedf7f-b565-443f-a2b5-45fc9265669c.png
