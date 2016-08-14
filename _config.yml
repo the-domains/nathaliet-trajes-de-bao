@@ -34,3 +34,6 @@ navigation:
   - name: '#NathalietMe'
     url: 'https://thegrid.ai/nathalietme/'
     type: external
+  - name: Agendar una cita
+    url: 'http://m.me/nathalietme'
+    type: external
