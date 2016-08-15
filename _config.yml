@@ -30,9 +30,6 @@ navigation:
   - name: Trajes de Baño
     url: 'https://thegrid.ai/nathaliet-trajes-de-bano/'
     type: external
-  - name: '#NathalietMe'
-    url: 'https://thegrid.ai/nathalietme/'
-    type: external
   - name: Agendar una cita
     url: 'http://m.me/nathalietme'
     type: external
