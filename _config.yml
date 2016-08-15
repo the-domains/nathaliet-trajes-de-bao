@@ -1,4 +1,4 @@
-typography_spectrum: 0.4049930612090975
+typography_spectrum: 0.8756823006551713
 color:
   brandStrength: 0.9794230724219233
   lightness: 0.9799700165167451
@@ -10,7 +10,7 @@ color:
     - '#33332D'
     - '#9FB4CC'
     - '#DB4105'
-layout_spectrum: 0.5734548612963408
+layout_spectrum: 0.06705787708051503
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc99a213-51df-4105-91b8-42a7d0384238.png
 name: Nathaliet
